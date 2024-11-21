@@ -1,5 +1,5 @@
 
-# Database Design Summary: `cia`
+# Database Design Summary: 
 
 This document provides a summary of the database schema defined in the SQL file for a banking system.
 
